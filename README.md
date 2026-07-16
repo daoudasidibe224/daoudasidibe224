@@ -6,7 +6,6 @@ Je conçois des applications web de bout en bout : interfaces React/Vue/Nuxt, AP
 
 ## 🔭 Actuellement
 
-- Je recherche un **CDI de développeur Full Stack JavaScript/TypeScript** en Île-de-France.
 - Je consolide mes projets personnels et améliore leur documentation, leurs tests et leur qualité technique.
 
 ## 🌱 Je me perfectionne sur
