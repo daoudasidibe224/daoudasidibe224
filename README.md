@@ -1,39 +1,31 @@
-# Bonjour 👋
+# Daouda Sidibe
 
-Je suis **Daouda**, développeur Full Stack JavaScript/TypeScript basé en Île-de-France.
+Développeur Full Stack JavaScript/TypeScript en Île-de-France.
 
-Je conçois des applications web de bout en bout : interfaces React/Vue/Nuxt, API Node.js/NestJS, bases SQL, tests automatisés et déploiements Docker/CI/CD.
+Je conçois des applications web de bout en bout : interfaces React, Vue et Nuxt, API Node.js et NestJS, bases SQL, tests automatisés et déploiements avec Docker et CI/CD.
 
-## 🔭 Actuellement
+[Portfolio](https://www.daoudasidibe.fr) · [LinkedIn](https://www.linkedin.com/in/daoudasidibe/) · [Email](mailto:daoudasidibe224@gmail.com)
 
-- Je consolide mes projets personnels et améliore leur documentation, leurs tests et leur qualité technique.
+## Mes projets publics
 
-## 🌱 Je me perfectionne sur
+Ces dépôts réunissent des applications personnelles et des exercices. Chaque README décrit le fonctionnement, l’installation et les limites du projet.
 
-- l’architecture logicielle et les API robustes ;
-- les tests automatisés avec Cypress et Jest ;
-- Docker, les pipelines CI/CD et la fiabilité des mises en production ;
-- la qualité de code, la documentation et les bonnes pratiques Agile.
+| Projet | Sujet |
+| --- | --- |
+| [FormGenerator](https://github.com/daoudasidibe224/FormGenerator) | Création de formulaires et gestion de leurs réponses |
+| [Task Manager](https://github.com/daoudasidibe224/task-manager) | Organisation des tâches et des listes |
+| [Liste de courses](https://github.com/daoudasidibe224/Application-liste-de-courses) | Préparation et suivi des courses |
+| [SocialBook](https://github.com/daoudasidibe224/SocialBook) | Publications, profils et échanges entre utilisateurs |
+| [Draw Canvas](https://github.com/daoudasidibe224/draw-canvas) | Dessin et jeu multijoueur |
+| [Jeu en ligne](https://github.com/daoudasidibe224/jeu-en-ligne) | Jeu, salons et échanges en temps réel |
+| [Exercice Epitech](https://github.com/daoudasidibe224/test-entre-epitech) | Exercice de programmation |
 
-## 🛠️ Technologies
+## Mon travail
 
-`JavaScript` `TypeScript` `React.js` `Vue.js` `Nuxt.js` `Node.js` `NestJS` `SQL` `Docker` `GitLab CI/CD` `Cypress` `Jest`
+`JavaScript` `TypeScript` `React` `Vue` `Nuxt` `Node.js` `NestJS` `SQL` `Docker` `GitLab CI/CD` `Cypress` `Jest`
 
-## 📌 Projets publics
+Je consolide mes projets personnels et leurs tests. Je me perfectionne en architecture logicielle, en conception d’API et en fiabilité des mises en production.
 
-- [Générateur de formulaires avancé](https://github.com/daoudasidibe224/FormGenerator) — Next.js, React, TypeScript, React Hook Form et Zod
-- [Task Manager](https://github.com/daoudasidibe224/task-manager) — application personnelle de gestion de tâches
-- [Application de liste de courses](https://github.com/daoudasidibe224/Application-liste-de-courses)
-- [SocialBook](https://github.com/daoudasidibe224/SocialBook)
+Je suis ouvert aux échanges autour du développement web, de l’architecture frontend et backend et des pratiques DevOps.
 
-## 🤝 Collaborations recherchées
-
-Je suis ouvert aux échanges autour du développement web, de l’architecture frontend/backend, de l’amélioration de projets existants et des pratiques DevOps.
-
-## 📫 Me contacter
-
-- Portfolio : [daoudasidibe.fr](https://www.daoudasidibe.fr)
-- LinkedIn : [linkedin.com/in/daoudasidibe](https://www.linkedin.com/in/daoudasidibe/)
-- Email : [daoudasidibe224@gmail.com](mailto:daoudasidibe224@gmail.com)
-
-⚡ **Fait personnel :** j’ai créé un portfolio 3D en apprenant Blender spécifiquement pour le réaliser.
+Pour mon portfolio 3D, j’ai appris Blender afin de construire la scène.
