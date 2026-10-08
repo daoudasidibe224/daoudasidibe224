@@ -1,4 +1,4 @@
-# Daouda Sidibe
+# Daouda Sidibe | Développeur Full Stack
 
 Développeur Full Stack JavaScript/TypeScript en Île-de-France.
 
@@ -12,13 +12,13 @@ Ces dépôts réunissent des applications personnelles et des exercices. Chaque 
 
 | Projet | Sujet |
 | --- | --- |
-| [FormGenerator](https://github.com/daoudasidibe224/FormGenerator) | Création de formulaires et gestion de leurs réponses |
-| [Task Manager](https://github.com/daoudasidibe224/task-manager) | Organisation des tâches et des listes |
-| [Liste de courses](https://github.com/daoudasidibe224/Application-liste-de-courses) | Préparation et suivi des courses |
-| [SocialBook](https://github.com/daoudasidibe224/SocialBook) | Publications, profils et échanges entre utilisateurs |
-| [Draw Canvas](https://github.com/daoudasidibe224/draw-canvas) | Dessin et jeu multijoueur |
-| [Jeu en ligne](https://github.com/daoudasidibe224/jeu-en-ligne) | Jeu, salons et échanges en temps réel |
-| [Exercice Epitech](https://github.com/daoudasidibe224/test-entre-epitech) | Exercice de programmation |
+| [Atelier de formulaires](https://github.com/daoudasidibe224/FormGenerator) | Création de formulaires et gestion de leurs réponses |
+| [Mes listes de tâches](https://github.com/daoudasidibe224/task-manager) | Organisation des listes, priorités et échéances |
+| [Carnet de courses](https://github.com/daoudasidibe224/Application-liste-de-courses) | Préparation et suivi des courses |
+| [Communauté sportive](https://github.com/daoudasidibe224/SocialBook) | Publications, profils et échanges entre utilisateurs |
+| [Dessine et devine](https://github.com/daoudasidibe224/draw-canvas) | Dessin et jeu multijoueur |
+| [Duel d’étoiles en ligne](https://github.com/daoudasidibe224/jeu-en-ligne) | Jeu, salons et échanges en temps réel |
+| [Carnet de cartes de visite](https://github.com/daoudasidibe224/test-entre-epitech) | Création et classement de cartes de visite |
 
 ## Mon travail
 
