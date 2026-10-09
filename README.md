@@ -40,10 +40,10 @@ Je travaille avec **JavaScript et TypeScript**, sur **React, Vue et Nuxt**, ains
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://atelier-de-formulaires.vercel.app"><img src="assets/projects/formulaires.webp" alt="Atelier de formulaires : édition d’un formulaire avec différents champs" width="100%"></a>
-      <h3>Atelier de formulaires</h3>
+      <a href="https://formeo-daouda.vercel.app"><img src="assets/projects/formeo.webp" alt="Forméo : édition d’un formulaire avec différents champs" width="100%"></a>
+      <h3>Forméo</h3>
       <p>Composer un formulaire, prévisualiser ses champs et recueillir les réponses. Sans compte, avec les données conservées dans le navigateur.</p>
-      <a href="https://atelier-de-formulaires.vercel.app">Ouvrir l’application ↗</a> · <a href="https://github.com/daoudasidibe224/atelier-de-formulaires/tree/improve/public-2026-10">Code source</a>
+      <a href="https://formeo-daouda.vercel.app">Ouvrir l’application ↗</a> · <a href="https://github.com/daoudasidibe224/formeo/tree/improve/public-2026-10">Code source</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://duel-etoiles-en-ligne.onrender.com/jouer"><img src="assets/projects/duel.webp" alt="Duel d’étoiles : deux joueurs, leurs scores et des bonus dans une manche en cours" width="100%"></a>
