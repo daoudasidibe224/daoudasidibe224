@@ -43,13 +43,13 @@ Je travaille avec **JavaScript et TypeScript**, sur **React, Vue et Nuxt**, ains
       <a href="https://formeo-daouda.vercel.app"><img src="assets/projects/formeo.webp" alt="Forméo : édition d’un formulaire avec différents champs" width="100%"></a>
       <h3>Forméo</h3>
       <p>Composer un formulaire, prévisualiser ses champs et recueillir les réponses. Sans compte, avec les données conservées dans le navigateur.</p>
-      <a href="https://formeo-daouda.vercel.app">Ouvrir l’application ↗</a> · <a href="https://github.com/daoudasidibe224/formeo/tree/improve/public-2026-10">Code source</a>
+      <a href="https://formeo-daouda.vercel.app">Ouvrir l’application ↗</a> · <a href="https://github.com/daoudasidibe224/formeo">Code source</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://duel-etoiles-en-ligne.onrender.com/jouer"><img src="assets/projects/duel.webp" alt="Duel d’étoiles : deux joueurs, leurs scores et des bonus dans une manche en cours" width="100%"></a>
-      <h3>Duel d’étoiles en ligne</h3>
-      <p>Un duel arcade à deux : attraper les étoiles, profiter des bonus et garder une longueur d’avance. Un pseudo suffit pour jouer.</p>
-      <a href="https://duel-etoiles-en-ligne.onrender.com/jouer">Jouer ↗</a> · <a href="https://github.com/daoudasidibe224/duel-etoiles-en-ligne/tree/improve/public-2026-10">Code source</a>
+      <a href="https://duel-etoiles-en-ligne.onrender.com"><img src="assets/projects/salle-de-jeux.webp" alt="La Salle de jeux : dessin entre amis et Duel d’étoiles" width="100%"></a>
+      <h3>La Salle de jeux</h3>
+      <p>Dessine et devine et Duel d’étoiles réunis dans un même site. Un pseudo suffit ; les deux jeux partagent le même accès.</p>
+      <a href="https://duel-etoiles-en-ligne.onrender.com">Jouer ↗</a> · <a href="https://github.com/daoudasidibe224/salle-de-jeux">Code source</a>
     </td>
   </tr>
   <tr>
@@ -57,13 +57,13 @@ Je travaille avec **JavaScript et TypeScript**, sur **React, Vue et Nuxt**, ains
       <a href="https://carnet-de-courses.onrender.com"><img src="assets/projects/courses.webp" alt="Carnet de courses : un ticket avec des produits classés par rayon et des achats cochés" width="100%"></a>
       <h3>Carnet de courses</h3>
       <p>Préparer plusieurs listes, organiser les produits par rayon et cocher les achats dans un ticket pensé pour le magasin.</p>
-      <a href="https://carnet-de-courses.onrender.com">Préparer une liste ↗</a> · <a href="https://github.com/daoudasidibe224/carnet-de-courses/tree/improve/public-2026-10">Code source</a>
+      <a href="https://carnet-de-courses.onrender.com">Préparer une liste ↗</a> · <a href="https://github.com/daoudasidibe224/carnet-de-courses">Code source</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://communaute-sportive.onrender.com"><img src="assets/projects/sport.webp" alt="Communauté sportive : fil d’actualités, profil et rédaction d’une publication" width="100%"></a>
       <h3>Communauté sportive</h3>
       <p>Partager ses séances, découvrir d’autres profils sportifs et échanger autour de ses activités.</p>
-      <a href="https://communaute-sportive.onrender.com">Découvrir la communauté ↗</a> · <a href="https://github.com/daoudasidibe224/communaute-sportive/tree/improve/public-2026-10">Code source</a>
+      <a href="https://communaute-sportive.onrender.com">Découvrir la communauté ↗</a> · <a href="https://github.com/daoudasidibe224/communaute-sportive">Code source</a>
     </td>
   </tr>
 </table>
@@ -72,9 +72,8 @@ Je travaille avec **JavaScript et TypeScript**, sur **React, Vue et Nuxt**, ains
 
 | Application | Ce qu’on peut y faire | Liens |
 | :--- | :--- | :--- |
-| **Mes listes de tâches** | Organiser ses listes, ses priorités et ses échéances. | [Démo](https://mes-listes-de-taches.onrender.com) · [Code](https://github.com/daoudasidibe224/mes-listes-de-taches/tree/improve/public-2026-10) |
-| **Dessine et devine** | Rejoindre un salon, dessiner à tour de rôle et deviner les mots en direct. | [Jouer](https://dessine-et-devine.onrender.com) · [Code](https://github.com/daoudasidibe224/dessine-et-devine/tree/improve/public-2026-10) |
-| **Carnet de cartes de visite** | Créer, retrouver et classer ses cartes de visite. | [Démo](https://carnet-de-cartes-de-visite.onrender.com) · [Code](https://github.com/daoudasidibe224/carnet-de-cartes-de-visite/tree/improve/public-2026-10) |
+| **Mes listes de tâches** | Organiser ses listes, ses priorités et ses échéances. | [Démo](https://mes-listes-de-taches.onrender.com) · [Code](https://github.com/daoudasidibe224/mes-listes-de-taches) |
+| **Carnet de cartes de visite** | Créer, retrouver et classer ses cartes de visite. | [Démo](https://carnet-de-cartes-de-visite.onrender.com) · [Code](https://github.com/daoudasidibe224/carnet-de-cartes-de-visite) |
 
 <sub>Les démos hébergées gratuitement sur Render peuvent prendre un moment à démarrer après une période d’inactivité.</sub>
 
