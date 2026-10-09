@@ -78,7 +78,7 @@ def banner(theme):
     <rect width="1000" height="340" rx="18" fill="url(#wash)"/>
     <path d="M720 -60 C580 50 640 250 870 295 S1110 220 1040 70" fill="none" stroke="{copper}" stroke-width="48" opacity=".13"/>
     <path d="M718 -60 C575 55 630 250 863 297 S1110 220 1040 70" fill="none" stroke="{copper}" stroke-width="1" opacity=".5"/>
-    <text x="48" y="56" font-family="monospace" font-size="14" letter-spacing="3" fill="{copper}">L’ATELIER · DÉVELOPPEMENT WEB</text>
+    <text x="48" y="56" font-family="monospace" font-size="14" letter-spacing="3" fill="{copper}">DÉVELOPPEMENT WEB</text>
     <text x="45" y="137" font-family="Georgia,serif" font-size="62" fill="{fg}">Daouda Sidibe</text>
     <text x="49" y="178" font-family="Verdana,sans-serif" font-size="21" fill="{muted}">Développeur Full Stack · JavaScript / TypeScript</text>
     <text x="49" y="247" font-family="Verdana,sans-serif" font-size="17" fill="{fg}">Des interfaces claires. Des applications qui fonctionnent.</text>

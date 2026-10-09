@@ -16,7 +16,7 @@ Je développe des applications web, de l’interface à l’API. J’aime rendre
 
 Je travaille avec **JavaScript et TypeScript**, sur **React, Vue et Nuxt**, ainsi que **Node.js et NestJS**. Mes projets personnels sont aussi un terrain d’expérimentation : jeux multijoueurs, outils du quotidien et [portfolio 3D](https://www.daoudasidibe.fr), dont j’ai construit la scène avec Blender.
 
-## Mon atelier technique
+## Technologies
 
 <p>
   <img src="assets/icons/typescript.svg" alt="TypeScript" width="44" height="44"> &nbsp;
