@@ -1,33 +1,89 @@
-# Daouda Sidibe | Développeur Full Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="Daouda Sidibe — Développeur Full Stack JavaScript / TypeScript" width="100%">
+</picture>
 
-Développeur Full Stack JavaScript/TypeScript en Île-de-France.
+<p align="center">
+  <a href="https://www.daoudasidibe.fr"><img src="assets/portfolio.svg" alt="Voir mon portfolio" height="42"></a>
+  <a href="https://www.linkedin.com/in/daoudasidibe/"><img src="assets/linkedin.svg" alt="LinkedIn" height="42"></a>
+  <a href="mailto:daoudasidibe224@gmail.com"><img src="assets/email.svg" alt="Me contacter par email" height="42"></a>
+</p>
 
-Je conçois des applications web de bout en bout : interfaces React, Vue et Nuxt, API Node.js et NestJS, bases SQL, tests automatisés et déploiements avec Docker et CI/CD.
+### Bonjour, moi c’est Daouda 👋
 
-[Portfolio](https://www.daoudasidibe.fr) · [LinkedIn](https://www.linkedin.com/in/daoudasidibe/) · [Email](mailto:daoudasidibe224@gmail.com)
+Je développe des applications web, de l’interface à l’API. J’aime rendre les parcours simples, comprendre les cas qui font dérailler une fonctionnalité et les couvrir avec des tests.
 
-## Mes projets publics
+Je travaille avec **JavaScript et TypeScript**, sur **React, Vue et Nuxt**, ainsi que **Node.js et NestJS**. Mes projets personnels sont aussi un terrain d’expérimentation : jeux multijoueurs, outils du quotidien et [portfolio 3D](https://www.daoudasidibe.fr), dont j’ai construit la scène avec Blender.
 
-Ces dépôts réunissent des applications personnelles et des exercices. Chaque README décrit le fonctionnement, l’installation et les limites du projet. Les démonstrations gratuites peuvent démarrer lentement après une période d’inactivité.
+## Mon atelier technique
 
-[Essayer l’Atelier de formulaires](https://atelier-de-formulaires.vercel.app). Ses données restent dans le navigateur.
+<p>
+  <img src="assets/icons/typescript.svg" alt="TypeScript" width="44" height="44"> &nbsp;
+  <img src="assets/icons/javascript.svg" alt="JavaScript" width="44" height="44"> &nbsp;
+  <img src="assets/icons/react.svg" alt="React" width="44" height="44"> &nbsp;
+  <img src="assets/icons/vue.svg" alt="Vue" width="44" height="44"> &nbsp;
+  <img src="assets/icons/nuxt.svg" alt="Nuxt" width="44" height="44"> &nbsp;
+  <img src="assets/icons/node.svg" alt="Node.js" width="44" height="44"> &nbsp;
+  <img src="assets/icons/nest.svg" alt="NestJS" width="44" height="44"> &nbsp;
+  <img src="assets/icons/postgresql.svg" alt="PostgreSQL" width="44" height="44"> &nbsp;
+  <img src="assets/icons/mongodb.svg" alt="MongoDB" width="44" height="44"> &nbsp;
+  <img src="assets/icons/docker.svg" alt="Docker" width="44" height="44">
+</p>
 
-| Projet | Sujet | Démo |
-| --- | --- | --- |
-| [Atelier de formulaires](https://github.com/daoudasidibe224/atelier-de-formulaires) | Création de formulaires et gestion de leurs réponses | [Essayer](https://atelier-de-formulaires.vercel.app) |
-| [Mes listes de tâches](https://github.com/daoudasidibe224/mes-listes-de-taches) | Organisation des listes, priorités et échéances | [Essayer](https://mes-listes-de-taches.onrender.com) |
-| [Carnet de courses](https://github.com/daoudasidibe224/carnet-de-courses) | Préparation et suivi des courses | [Essayer](https://carnet-de-courses.onrender.com) |
-| [Communauté sportive](https://github.com/daoudasidibe224/communaute-sportive) | Publications, profils et échanges entre utilisateurs | [Essayer](https://communaute-sportive.onrender.com) |
-| [Dessine et devine](https://github.com/daoudasidibe224/dessine-et-devine) | Dessin et jeu multijoueur | [Essayer](https://dessine-et-devine.onrender.com) |
-| [Duel d’étoiles en ligne](https://github.com/daoudasidibe224/duel-etoiles-en-ligne) | Jeu, salons et échanges en temps réel | [Essayer](https://duel-etoiles-en-ligne.onrender.com) |
-| [Carnet de cartes de visite](https://github.com/daoudasidibe224/carnet-de-cartes-de-visite) | Création et classement de cartes de visite | [Essayer](https://carnet-de-cartes-de-visite.onrender.com) |
+**Interfaces** · React, Vue, Nuxt, HTML, CSS<br>
+**API & données** · Node.js, NestJS, REST, SQL, MongoDB<br>
+**Qualité & livraison** · Jest, Cypress, Git, Docker, GitLab CI/CD
 
-## Mon travail
+## Quelques fenêtres sur mes projets
 
-`JavaScript` `TypeScript` `React` `Vue` `Nuxt` `Node.js` `NestJS` `SQL` `Docker` `GitLab CI/CD` `Cypress` `Jest`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://atelier-de-formulaires.vercel.app"><img src="assets/projects/formulaires.webp" alt="Atelier de formulaires : édition d’un formulaire avec différents champs" width="100%"></a>
+      <h3>Atelier de formulaires</h3>
+      <p>Composer un formulaire, prévisualiser ses champs et recueillir les réponses. Sans compte, avec les données conservées dans le navigateur.</p>
+      <a href="https://atelier-de-formulaires.vercel.app">Ouvrir l’application ↗</a> · <a href="https://github.com/daoudasidibe224/atelier-de-formulaires">Code source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://duel-etoiles-en-ligne.onrender.com/jouer"><img src="assets/projects/duel.webp" alt="Duel d’étoiles : deux joueurs, leurs scores et des bonus dans une manche en cours" width="100%"></a>
+      <h3>Duel d’étoiles en ligne</h3>
+      <p>Un duel arcade à deux : attraper les étoiles, profiter des bonus et garder une longueur d’avance. Un pseudo suffit pour jouer.</p>
+      <a href="https://duel-etoiles-en-ligne.onrender.com/jouer">Jouer ↗</a> · <a href="https://github.com/daoudasidibe224/duel-etoiles-en-ligne">Code source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://carnet-de-courses.onrender.com"><img src="assets/projects/courses.webp" alt="Carnet de courses : un ticket avec des produits classés par rayon et des achats cochés" width="100%"></a>
+      <h3>Carnet de courses</h3>
+      <p>Préparer plusieurs listes, organiser les produits par rayon et cocher les achats dans un ticket pensé pour le magasin.</p>
+      <a href="https://carnet-de-courses.onrender.com">Préparer une liste ↗</a> · <a href="https://github.com/daoudasidibe224/carnet-de-courses">Code source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://communaute-sportive.onrender.com"><img src="assets/projects/sport.webp" alt="Communauté sportive : fil d’actualités, profil et rédaction d’une publication" width="100%"></a>
+      <h3>Communauté sportive</h3>
+      <p>Partager ses séances, découvrir d’autres profils sportifs et échanger autour de ses activités.</p>
+      <a href="https://communaute-sportive.onrender.com">Découvrir la communauté ↗</a> · <a href="https://github.com/daoudasidibe224/communaute-sportive">Code source</a>
+    </td>
+  </tr>
+</table>
 
-Je consolide mes projets personnels et leurs tests. Je me perfectionne en architecture logicielle, en conception d’API et en fiabilité des mises en production.
+### À découvrir aussi
 
-Je suis ouvert aux échanges autour du développement web, de l’architecture frontend et backend et des pratiques DevOps.
+| Application | Ce qu’on peut y faire | Liens |
+| :--- | :--- | :--- |
+| **Mes listes de tâches** | Organiser ses listes, ses priorités et ses échéances. | [Démo](https://mes-listes-de-taches.onrender.com) · [Code](https://github.com/daoudasidibe224/mes-listes-de-taches) |
+| **Dessine et devine** | Rejoindre un salon, dessiner à tour de rôle et deviner les mots en direct. | [Jouer](https://dessine-et-devine.onrender.com) · [Code](https://github.com/daoudasidibe224/dessine-et-devine) |
+| **Carnet de cartes de visite** | Créer, retrouver et classer ses cartes de visite. | [Démo](https://carnet-de-cartes-de-visite.onrender.com) · [Code](https://github.com/daoudasidibe224/carnet-de-cartes-de-visite) |
 
-Pour mon portfolio 3D, j’ai appris Blender afin de construire la scène.
+<sub>Les démos hébergées gratuitement sur Render peuvent prendre un moment à démarrer après une période d’inactivité.</sub>
+
+## Au fil des contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+  <img src="assets/activity-light.svg" alt="Activité GitHub : contributions de l’année et calendrier des 90 derniers jours, avec date du relevé" width="100%">
+</picture>
+
+<sub>Ces visuels sont générés depuis les données affichées par GitHub et actualisés chaque jour.</sub>

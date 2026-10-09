@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc"><title id="title">Daouda Sidibe — Développeur Full Stack JavaScript et TypeScript</title><desc id="desc"></desc><defs><linearGradient id="wash" x2="1" y2="1"><stop stop-color="#f6f0e8"/><stop offset="1" stop-color="#e9ded0"/></linearGradient></defs>
+    <rect width="1000" height="340" rx="18" fill="url(#wash)"/>
+    <path d="M720 -60 C580 50 640 250 870 295 S1110 220 1040 70" fill="none" stroke="#a55c39" stroke-width="48" opacity=".13"/>
+    <path d="M718 -60 C575 55 630 250 863 297 S1110 220 1040 70" fill="none" stroke="#a55c39" stroke-width="1" opacity=".5"/>
+    <text x="48" y="56" font-family="monospace" font-size="14" letter-spacing="3" fill="#a55c39">L’ATELIER · DÉVELOPPEMENT WEB</text>
+    <text x="45" y="137" font-family="Georgia,serif" font-size="62" fill="#283039">Daouda Sidibe</text>
+    <text x="49" y="178" font-family="Verdana,sans-serif" font-size="21" fill="#746455">Développeur Full Stack · JavaScript / TypeScript</text>
+    <text x="49" y="247" font-family="Verdana,sans-serif" font-size="17" fill="#283039">Des interfaces claires. Des applications qui fonctionnent.</text>
+    <text x="49" y="292" font-family="monospace" font-size="13" fill="#a55c39" letter-spacing="1">INTERFACE  /  API  /  TESTS</text>
+    <g transform="translate(700 83) rotate(-7 120 95)">
+      <rect width="246" height="178" rx="13" fill="#f6f0e8" stroke="#a55c39" stroke-opacity=".6"/>
+      <path d="M0 34H246" stroke="#a55c39" stroke-opacity=".25"/>
+      <circle cx="19" cy="17" r="4" fill="#a55c39"/><circle cx="34" cy="17" r="4" fill="#746455" opacity=".5"/><circle cx="49" cy="17" r="4" fill="#746455" opacity=".3"/>
+      <path d="M70 69L43 94l27 25M175 69l27 25-27 25M135 60l-27 68" stroke="#a55c39" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path d="M46 151H111M122 151H182" stroke="#746455" opacity=".4" stroke-width="3" stroke-linecap="round"/>
+    </g></svg>
