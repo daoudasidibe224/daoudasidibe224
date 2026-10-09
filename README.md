@@ -14,13 +14,13 @@ Ces dépôts réunissent des applications personnelles et des exercices. Chaque 
 
 | Projet | Sujet | Démo |
 | --- | --- | --- |
-| [Atelier de formulaires](https://github.com/daoudasidibe224/atelier-de-formulaires) | Création de formulaires et gestion de leurs réponses  [Essayer](https://atelier-de-formulaires.vercel.app) |
-| [Mes listes de tâches](https://github.com/daoudasidibe224/mes-listes-de-taches) | Organisation des listes, priorités et échéances  [Essayer](https://mes-listes-de-taches.onrender.com) |
-| [Carnet de courses](https://github.com/daoudasidibe224/carnet-de-courses) | Préparation et suivi des courses  [Essayer](https://carnet-de-courses.onrender.com) |
-| [Communauté sportive](https://github.com/daoudasidibe224/communaute-sportive) | Publications, profils et échanges entre utilisateurs  [Essayer](https://communaute-sportive.onrender.com) |
-| [Dessine et devine](https://github.com/daoudasidibe224/dessine-et-devine) | Dessin et jeu multijoueur  [Essayer](https://dessine-et-devine.onrender.com) |
-| [Duel d’étoiles en ligne](https://github.com/daoudasidibe224/duel-etoiles-en-ligne) | Jeu, salons et échanges en temps réel  [Essayer](https://duel-etoiles-en-ligne.onrender.com) |
-| [Carnet de cartes de visite](https://github.com/daoudasidibe224/carnet-de-cartes-de-visite) | Création et classement de cartes de visite  [Essayer](https://carnet-de-cartes-de-visite.onrender.com) |
+| [Atelier de formulaires](https://github.com/daoudasidibe224/atelier-de-formulaires) | Création de formulaires et gestion de leurs réponses | [Essayer](https://atelier-de-formulaires.vercel.app) |
+| [Mes listes de tâches](https://github.com/daoudasidibe224/mes-listes-de-taches) | Organisation des listes, priorités et échéances | [Essayer](https://mes-listes-de-taches.onrender.com) |
+| [Carnet de courses](https://github.com/daoudasidibe224/carnet-de-courses) | Préparation et suivi des courses | [Essayer](https://carnet-de-courses.onrender.com) |
+| [Communauté sportive](https://github.com/daoudasidibe224/communaute-sportive) | Publications, profils et échanges entre utilisateurs | [Essayer](https://communaute-sportive.onrender.com) |
+| [Dessine et devine](https://github.com/daoudasidibe224/dessine-et-devine) | Dessin et jeu multijoueur | [Essayer](https://dessine-et-devine.onrender.com) |
+| [Duel d’étoiles en ligne](https://github.com/daoudasidibe224/duel-etoiles-en-ligne) | Jeu, salons et échanges en temps réel | [Essayer](https://duel-etoiles-en-ligne.onrender.com) |
+| [Carnet de cartes de visite](https://github.com/daoudasidibe224/carnet-de-cartes-de-visite) | Création et classement de cartes de visite | [Essayer](https://carnet-de-cartes-de-visite.onrender.com) |
 
 ## Mon travail
 
