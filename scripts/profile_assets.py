@@ -123,7 +123,7 @@ def write_assets(data):
     assets = ROOT / "assets"
     assets.mkdir(exist_ok=True)
     for theme in ("dark", "light"):
-        (assets / f"banner-{theme}.svg").write_text(banner(theme))
+        (assets / f"header-{theme}.svg").write_text(banner(theme))
         (assets / f"activity-{theme}.svg").write_text(activity(data, theme))
     for name, label, width, color in [("portfolio", "Voir mon portfolio ↗", 216, "#a55c39"), ("linkedin", "LinkedIn ↗", 140, "#24586e"), ("email", "Me contacter ↗", 176, "#394e45")]:
         body = f'<rect width="{width}" height="42" rx="7" fill="{color}"/><text x="{width/2}" y="27" text-anchor="middle" font-family="Verdana,sans-serif" font-size="14" fill="#ffffff">{label}</text>'

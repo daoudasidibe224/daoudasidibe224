@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="Daouda Sidibe — Développeur Full Stack JavaScript / TypeScript" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="Daouda Sidibe — Développeur Full Stack JavaScript / TypeScript" width="100%">
 </picture>
 
 <p align="center">
